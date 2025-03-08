@@ -1,11 +1,3 @@
-# openai-rag-chroma
-
-# OpenAI RAG with ChromaDB
-
-This project implements a **Retrieval-Augmented Generation (RAG)** pipeline using **OpenAI GPT** and **ChromaDB** for storing and retrieving text from documents (PDFs and DOCX). The system extracts content, embeds it, and retrieves relevant information to generate AI-powered responses.
-
----
-```
 pip install -r requirements.txt
 
 mkdir documents

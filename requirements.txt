@@ -1,0 +1,11 @@
+openai
+chromadb
+langchain
+langchain-community
+langchain_openai
+pypdf
+python-docx
+tiktoken
+flask
+urllib3 
+requests
